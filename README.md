@@ -34,6 +34,7 @@
 - [果壳](https://www.guokr.com/)
 - [美团技术团队](https://tech.meituan.com/)
 - [ScienceDaily](https://www.sciencedaily.com/)
+- [lcomplete 的技术分享](https://tech.codelc.com)
 
 ## Business
 
