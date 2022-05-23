@@ -26,3 +26,22 @@
 - [程序员的喵](https://catcoding.me/)
 - [Changkun's Blog](https://changkun.de/blog/)
 - [老石谈芯](https://shilicon.com/)
+- [Discover dev](https://www.discoverdev.io/)
+- [Distill](https://distill.pub/)
+- [Hacker News](https://news.ycombinator.com/)
+- [calculated | content](https://calculatedcontent.com/)
+- [机器之心](https://www.jiqizhixin.com/)
+- [果壳](https://www.guokr.com/)
+- [美团技术团队](https://tech.meituan.com/)
+- [ScienceDaily](https://www.sciencedaily.com/)
+
+## Business
+
+- [36kr](https://36kr.com/): [RSS](https://36kr.com/feed)
+- [虎嗅](https://www.huxiu.com/): [RSS](https://rss.huxiu.com/)
+- [钛媒体](https://www.tmtpost.com/): [RSS](https://www.tmtpost.com/rss.xml)
+- []()
+
+
+## Life
+- [BBC Good Food](https://www.bbcgoodfood.com/): [RSS](https://www.bbcgoodfood.com/feed/atom)
