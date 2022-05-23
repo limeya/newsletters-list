@@ -40,7 +40,6 @@
 - [36kr](https://36kr.com/): [RSS](https://36kr.com/feed)
 - [虎嗅](https://www.huxiu.com/): [RSS](https://rss.huxiu.com/)
 - [钛媒体](https://www.tmtpost.com/): [RSS](https://www.tmtpost.com/rss.xml)
-- []()
 
 
 ## Life
